@@ -1,1 +1,90 @@
+body {
+    background : #5f93a7 ;
+}
 
+#Header a:hover
+{
+    color: rgb(255, 255, 255);
+
+}
+
+.custom-bg-color {
+    background-color:#5f93a7;
+}
+.white-text {
+    color: #ffffff; 
+}
+.navbar-brand h2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+#AboutData {
+    margin-top: 100px;
+    font-style: white;
+}
+#AboutData2{
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: left;
+}
+#About .hr{
+    margin:0 10px;
+    border: 2px solid white;
+}
+
+#Contact{
+    margin-top:150px;
+    color:white;
+}
+#Contact p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#Contact a{
+    color:white;
+}
+#Resume
+    {
+        margin-top:150px;
+        color:white;
+    }
+#Resume a{
+        color:white;
+        font-style: italic;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+    }
+
+    .accordion .accordion-button {
+        background-color: #5f93a7; /* Change to your desired color */
+        color: #ffffff; /* Change to your desired text color */
+    }
+    
+    
+    .accordion .accordion-body {
+        background-color: #5f93a7;
+        color: #ffffff;
+        font-family: 'Times New Roman', Times, serif;
+        font-size:20px;
+    }
+    .accordion .accordion-button {
+        font-size: 30px;
+        font-weight: bolder;
+    }
+#Projects{
+    color:white;
+    margin-top: 200px;
+    font-style: white;
+    font-size: 40px;
+}
+
+#ProjectsData {
+    margin-top: 75px;
+    font-style: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
